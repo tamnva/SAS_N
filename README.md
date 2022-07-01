@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/509562497.svg)](https://zenodo.org/badge/latestdoi/509562497)
+
 # SAS_N
 
 - This repository contains the source code (./model_source_code) and simulated results (./model_outputs) from the SAS_N model for 89 catchments in Germany. 
