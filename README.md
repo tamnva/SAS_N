@@ -1,4 +1,5 @@
-# SAS-N
+# SAS-N <a href="https://github.com/tamnva/SAS_N/sas_logo.svg"><img src="sas_logo.svg" align="right" height="120" /></a>
+
 [![DOI](https://zenodo.org/badge/509562497.svg)](https://zenodo.org/badge/latestdoi/509562497)
 - SAS-N is a catchment scale nitrogen transport model using the storage age selection function.
 - This repository contains the source code (./model_source_code) and simulated results (./model_outputs) from the SAS_N model for 89 catchments in Germany. 
