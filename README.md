@@ -2,11 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/509562497.svg)](https://zenodo.org/badge/latestdoi/509562497)
 - SAS-N is a catchment scale nitrogen transport model using the storage age selection function.
-- This repository contains the source code (./model_source_code) and simulated results (./model_outputs) from the SAS_N model for 89 catchments in Germany. 
-
-- More information about the 89 catchments can be found [in this data repository](https://www.hydroshare.org/resource/88254bd930d1466c85992a7dea6947a4/). The folder which contains the simulated results (e.g., ./model_outputs/basin_OBJECTID_243) has the same OBJECTID as used in the above data repository.
-
-- The output folder (e.g., ./model_outputs/basin_OBJECTID_243/output) contains the following files.
+- This repository contains the source code (./src) and test case (./test) from the SAS_N model. 
+- The output folder (e.g., ./test/output) contains the following files.
 
   ***Nbalance.txt***
 
