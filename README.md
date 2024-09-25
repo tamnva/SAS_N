@@ -1,8 +1,10 @@
-# SAS-N <a href="https://github.com/tamnva/SAS_N/sas_logo.svg"><img src="sas_logo.svg" align="right" height="120" /></a>
+# SAS-N <a href="https://github.com/tamnva/SAS_N/blob/master/sas_logo.svg"><img src="sas_logo.svg" align="right" height="120" /></a>
 
 [![DOI](https://zenodo.org/badge/509562497.svg)](https://zenodo.org/badge/latestdoi/509562497)
+
 - SAS-N is a catchment scale nitrogen transport model using the storage age selection function.
 - This repository contains the source code (./src) and test case (./test) from the SAS_N model. 
+- More information about the model can be found elsewhere (https://doi.org/10.1029/2022GL100278)
 - The output folder (e.g., ./test/output) contains the following files.
 
   ***Nbalance.txt***
@@ -22,7 +24,7 @@
   ***Sim_C*** 
   
      - Columns are the years from 1950-2014
-  
+
      - Rows 1 to 30 contain the simulated nitrate (N-NO3) concentrations from the subsurface (mg/L) from the 30 best simulations.
   
        
